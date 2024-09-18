@@ -1,4 +1,8 @@
-#Comentários: Costumo alterar somente as coordenadas dos clicks para fazer testes em casa. No banco rodo o script de coordenadas do mouse, pois esse script não precisa de nenhuma biblioteca. // O Chat GPT é um grande aliado para criação dos códigos, só supervisionar o que e como ele está fazendo, no fim aprendemos por osmose... // Sempre usar o github para compartilhar arquivos .exe, linhas de código e arquivos de texto entre o Banco e o mundo externo. Fico a disposição para esclarecer qualquer dúvida. 51992240410
+#Comentários: 
+Costumo alterar somente as coordenadas dos clicks para fazer testes em casa. No banco rodo o script de coordenadas do mouse, pois esse script não precisa de nenhuma biblioteca.
+O Chat GPT é um grande aliado para criação dos códigos, só supervisionar o que e como ele está fazendo, no fim aprendemos por osmose... 
+Sempre usar o github para compartilhar arquivos .exe, linhas de código e arquivos de texto entre o Banco e o mundo externo.
+Fico a disposição para esclarecer qualquer dúvida. 51992240410
 
 
 # Tutorial-Banribot
